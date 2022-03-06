@@ -1,0 +1,15 @@
+# Created at 2022-03-06T16:15:32.952
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2022-03-06T16:15:32.952
+WARNING: Illegal reflective access by net.sourceforge.htmlunit.corejs.javascript.NativeArray (file:/C:/Users/Kimball/.m2/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.17/htmlunit-core-js-2.17.jar) to field java.util.Arrays$LegacyMergeSort.userRequested
+
+# Created at 2022-03-06T16:15:32.952
+WARNING: Please consider reporting this to the maintainers of net.sourceforge.htmlunit.corejs.javascript.NativeArray
+
+# Created at 2022-03-06T16:15:32.954
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2022-03-06T16:15:32.954
+WARNING: All illegal access operations will be denied in a future release
+
